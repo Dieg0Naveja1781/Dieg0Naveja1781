@@ -1,4 +1,4 @@
-#Welcome!
+# Welcome!
 <img align="center" width="1100" height="300" src="https://media.tenor.com/W3ZV-AHSsGsAAAAd/rain-world-raining.gif">
 
 Actualmente estudio la carrera de (***Ingeniería en Computación***). Realmente nunca tuve la intención de estudiar esto en primer lugar, pero por obras del destino terminé aquí, y la verdad es que me agrada bastante lo que se estudia y aprende en esta área de la informática :).
