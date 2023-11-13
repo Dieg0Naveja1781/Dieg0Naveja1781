@@ -6,7 +6,7 @@ Actualmente estudio la carrera de (***Ingeniería en Computación***). Realmente
 Espero poder mejorar mis habilidades y trabajar para construir un mejor futuro.
 
 ## Metas
-> - Desarrollar software innovador y practico.
+> - Desarrollar software innovador y práctico.
 > - Aprovechar las tecnologías para mejorar la calidad de vida y resolver problemáticas.
 > - Aprender y mejorar constantemente.
 
@@ -28,7 +28,7 @@ Espero poder mejorar mis habilidades y trabajar para construir un mejor futuro.
 </p>
 
 #### Robótica
-  - En la secundaria me metí un pequeño curso de robótica. Usábamos pequeños robots y los programabamos para que hicieran diferentes cosas: Como seguir indicaciones, moverse libremente e incluso evitar obstáculos.
+  - En la secundaria me metí a un pequeño curso de robótica. Usábamos pequeños robots y los programabamos para que hicieran diferentes cosas: Como seguir indicaciones, moverse libremente e incluso evitar obstáculos.
 
     Este fue mi primer acercamiento a la *programación*.
 
